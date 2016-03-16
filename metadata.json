@@ -1,0 +1,15 @@
+{
+  "name": "githubkkelley-ntp",
+  "version": "0.1.0",
+  "author": "githubkkelley",
+  "summary": "this is sample ntp module",
+  "license": "Apache-2.0",
+  "source": "https://github.com/githubkkelley/ntp.git",
+  "project_page": "https://github.com/githubkkelley/ntp",
+  "issues_url": "https://github.com/githubkkelley/ntp/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
